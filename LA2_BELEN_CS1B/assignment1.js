@@ -1,4 +1,4 @@
-//Belen_M_CS1B_LA2_A1
+// Belen_M_CS1B_LA2_A1
 let name1 = 'Mariane Ingen Belen'; // declare a let variable name First_name Middle_Name Last_Name
 let birthday1= 'May 23, 2006'; //declare another let variable birthday & input birthday 
 let birthplace1= 'La Trinidad, Benguet, Philippines 2601'; // another variable for our birthplace 
