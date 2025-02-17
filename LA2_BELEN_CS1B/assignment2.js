@@ -5,7 +5,7 @@ let a = 25;   // integer
 let b = 20;  // integer
 let c = 12;   // integer
 let d = "15";   // string
-let e = 15;     // integer
+const e = 15;     // integer
 
 // Add all of then and display 
 let sum = a + b + c + Number(d)+ e;   // we used a (Number()) to convert our string to integer.
